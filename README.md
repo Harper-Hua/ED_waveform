@@ -7,7 +7,7 @@
   1. troponin : 25161 (episodes)
   2. potassium : 69937
   3. calcium : 67376
-  ### PPG
+  ### PPG (114593 CSN available)
   1. RR : 9384701
   2. SBP : 1011876
   3. DBP : 1011876
